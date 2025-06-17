@@ -57,7 +57,7 @@ Dataset [Kaggle Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedes
 
 ![Informasi dataset](images/dataset-info.png)
 
-<img src="images/duplikasi_missing.png" alt="Jumlah Duplikasi dan Missing Values" width="100%">
+<img src="images/duplikasi_missing.PNG" alt="Jumlah Duplikasi dan Missing Values" width="100%">
 
 Berdasarkan informasi di atas: 
 - Dataset memiliki **12 kolom** dengan **5110 baris data**
